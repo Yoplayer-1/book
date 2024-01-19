@@ -11,9 +11,9 @@ that they were perfectly normal, thank you very much. They were the
 last people you'd expected to be involved in anything strange or
 mysterious, because they just didn't hold with such nonsense.
 
-*** 
-> Random note from me: The autocomplete in VSCode(codeium) autocompleted the first paragraph, isn't it copyrighted?
-***
+> [!NOTE]
+> The autocomplete in VSCode(I use codeium) autocompleted the first paragraph, isn't it copyrighted?
+
 
 Mr. Dursley was the director of a firm called "Dursley's Colonization services". 
 He was a big, beefy man with hardly any neck, although he did have a very large mustache.
