@@ -15,6 +15,6 @@
 
 ***
 
-[^1]: Stolen from "Loon Luci"(username: `lucifer7o7` as of 22-01-2024)'s about me. They might not know me, but we are in the same server( [Harry Potter](https://discord.gg/pottercord) )
+[^1]: Stolen from "Loon Luci"(username: `lucifer7o7` as of 22-01-2024)'s about me. They might not know me, but we are in the same server( [Harry Potter](https://discord.gg/pottercord))
 
-***
+
