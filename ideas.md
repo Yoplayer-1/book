@@ -3,19 +3,19 @@
 > [!NOTE]
 > Checked items are planned to be implemented.
 
-[x] Convince friend to co-author the book.
+- [x] Convince friend to co-author the book.
 
-[] Weasley twins - Hardy boys
+- [ ] Weasley twins - Hardy boys
 
-[] The vanishing toilet thingy used by death eaters to enter the castle - Wardrobe to Narnia
+- [ ] The vanishing toilet thingy used by death eaters to enter the castle - Wardrobe to Narnia
 
-[] Hagrid - Giant from Jack and the Beanstalk
+- [ ] Hagrid - Giant from Jack and the Beanstalk
 
-[] Dumbledore - Like Gandalf but not Gandalf
+- [ ] Dumbledore - Like Gandalf but not Gandalf
 
-[] Alastor Moody in the Triwizard book- I always keep a gun in my nightstand in case of intruders, so I could shoot myself instead of meeting new people [^1]
+- [ ] Alastor Moody in the Triwizard book- I always keep a gun in my nightstand in case of intruders, so I could shoot myself instead of meeting new people [^1]
 
-[] Nico helps Harry summon his parents in the last book instead of the resurrection stone.
+- [ ] Nico helps Harry summon his parents in the last book instead of the resurrection stone.
 
 ***
 
